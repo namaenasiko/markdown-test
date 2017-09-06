@@ -1,0 +1,149 @@
+# h1箇条書き
+- item1
+- item2
+- item3
+- [Ctrl]+[Shlft]+[M]キー
+
+もうひとつの大見出し
+===
+中見出し
+---
+
+## h2タグのタイトル
+
+### h3小見出し
+
+###### h6まで使える
+
+hello.
+hello.hello.hello.
+hello.hello.hello.
+hello.hello.hello.
+
+改行だけじゃ改行にならない。
+改行前にスペースを２つ入れると
+改行になる。
+
+hello.hello.hello.hello.
+hello.hello.hello.hello.
+hello.hello.hello.hello.
+hello.hello.hello.
+
+# 引用
+>quote.quote.quote.quote.
+quote.quote.quote.
+
+# 引用とは
+他の著作物の一部を抜枠して、
+それについて述べたりすること。
+本文と明確に異なる書式にする。
+
+# 区切り線
+---
+***
+___
+- - -
+上にあがるとh2になってしまう
+
+
+# 強調表現
+普通*強調*普通
+
+normal *kyouchou* normal
+
+normal _kyouchou_ normal
+
+普通**強調２**普通
+
+normal **kyouchou2**normal
+
+普通__強調2__普通
+
+# 箇条書き
+- item1
+- item2
+
+    段下げした状態で文を記載できる。
+    前後に空行を入れて、
+    ４つ半角スペースを入れる。
+
+- item3
+
+# 速番リスト
+1.数字.ドット.スペース
+2.数字は何でもよい
+5.これでも3になる
+1.よくやるのは、**全て1.**にする
+
+# リンク
+
+<http://dotlnstall.com>
+
+http://dotlnstall.com
+
+[リンクの文字](http://dotlnstall.com)
+
+[ホバー](http://dotlnstall.com"ドットインストール")"
+
+利用したアセットへのリンクなどで活用するとよい。
+
+# コードを見やすく
+
+function x(){
+  return x;
+}
+
+```
+//[Shift]+[#]キー
+function x(){
+  return x;
+}
+```
+
+文章内でコードを表さず場合functionなどと書く。
+
+```javascript
+//[shift]+[#]キー
+function x(){
+  return x;
+}
+```
+
+バッククォート3つの後ろに言葉を現すつづりを書くと、その言葉のハイライトが行われる。
+C#ならcs、HTMLならhml。C言語ならc
+
+```c
+void main(){
+return 0;
+}
+```
+
+# 箇条書きのインデント
+- 箇条書き
+  - スペース２つで箇条書きで、段下げ
+    - スペース４つでさらに下げる
+  - 1段戻す
+- 元に戻る
+
+1. 連番も同様
+  1. 下げる
+  1. 上げる
+1. 戻す
+
+# 画像
+![ALT属性](http://dotinstall.com/img/logo_200x200.png)
+
+- ALT属性とは、画像が取得できなかったり、非表示のときに変わりに表示される文字列
+
+![ALT属性](http://dotinstall.com/img/logo_200x200.png "ドットインストール")
+
+## 画像にリンク
+![ALT属性](http://dotinstall.com/img/logo_200x200.png "ドットインストール")
+リンクと画像を組み合わせたもの。ブラケット内に、画像のマークダウンっを書いて、()内にリンク先のURLを書く。
+
+## マークダウンファイルと同じ場所の画像へのリンク
+- [いらすとや](http://www.irasutoya.com/)
+- イラストやで適当な画像を２回ほどクリックして、画像だけ表示されるようにする
+-　画像を右クリックして、[名前をつけて保存]をせんたくして、デスクトップに保存
+
+![お祓いをする神主](./oharai_kannushi.png)
