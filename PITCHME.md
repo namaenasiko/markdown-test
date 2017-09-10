@@ -21,10 +21,11 @@
 ---
 
 ## 利用したアセット チュートリアル
-- BGM、SEなどはすべて魔王魂様から使わせていただきました。 |
+- BGM、SEなどはすべて魔王魂様から使わせていただきました |
 - <http://maoudamashii.jokersounds.com/> |
 - 使用したアセット |
 - <https://www.assetstore.unity3d.com/jp/#!/content/18880> |
+
 ---
-![ALT属性](http://maoudamashii.jokersounds.com//img/logo_200x200.png "マオウダマシイ")
-![ALT属性](http://dotinstall.com/img/logo_200x200.png "ドットインストール")
+![ALT属性](http://maoudamashii.jokersounds.com//img/"マオウダマシイ") |
+![ALT属性](http://dotinstall.com/img/logo_200x200.png "ドットインストール") |
