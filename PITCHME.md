@@ -26,5 +26,5 @@
 - 使用したアセット |
 - <https://www.assetstore.unity3d.com/jp/#!/content/18880> |
 ---
-![ALT属性](http://maoudamashii.jokersounds.com/img/logo_200x200.png "マオウダマシイ")
+![ALT属性](http://maoudamashii.jokersounds.com//img/logo_200x200.png "マオウダマシイ")
 ![ALT属性](http://dotinstall.com/img/logo_200x200.png "ドットインストール")
