@@ -22,8 +22,8 @@
 
 ## 利用したアセット チュートリアル
 - BGM、SEなどはすべて魔王魂様から使わせていただきました  |
-<http://maoudamashii.jokersounds.com/> 
+<http://maoudamashii.jokersounds.com/>
 - 使用したアセット  |
-<https://www.assetstore.unity3d.com/jp/#!/content/18880> 
+<https://www.assetstore.unity3d.com/jp/#!/content/18880>
 
 
