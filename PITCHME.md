@@ -25,4 +25,4 @@
 - <http://maoudamashii.jokersounds.com/> |
 - 使用したアセット |
 - <https://www.assetstore.unity3d.com/jp/#!/content/18880> |
-![ALT属性](http://maoudamashii.jokersounds.com/logo_200x200.png"魔王魂")
+![ALT属性](http://maoudamashii.jokersounds.com/img/logo_200x200.png"魔王魂")
