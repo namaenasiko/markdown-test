@@ -27,6 +27,5 @@
 - <https://www.assetstore.unity3d.com/jp/#!/content/18880> |
 
 ---
-![ALT属性](http://maoudamashii.jokersounds.com//img/"マオウダマシイ") |
-![ALT属性](http://dotinstall.com/img/logo_200x200.png "ドットインストール") |
-![お祓いをする神主](./oharai_kannushi.png)
+
+
