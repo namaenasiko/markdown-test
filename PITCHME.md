@@ -20,3 +20,5 @@
 ---
 
 ## 利用したアセット、チュートリアル
+- BGM、SEなどはすべて魔王魂様から使わせていただきました。
+<http://maoudamashii.jokersounds.com/>
